@@ -1,0 +1,6 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#015ba1"/>
+  <path d="M30 80V50L60 30L90 50V80H72V60H48V80H30Z" fill="white"/>
+  <path d="M30 85H90V92H30V85Z" fill="#fbbf24"/>
+  <text x="60" y="110" text-anchor="middle" fill="white" font-family="Georgia, serif" font-size="14" font-weight="bold">AS</text>
+</svg>
