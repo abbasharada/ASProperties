@@ -76,7 +76,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2.5 group">
             <img
-              src="/assets/images/1787689787291.svg"
+              src="/assets/images/logo.jpg"
               alt="A.S Properties"
               className="w-12 h-12 rounded-xl object-cover group-hover:scale-110 group-hover:rotate-3 transition-all duration-300 shadow-md"
             />

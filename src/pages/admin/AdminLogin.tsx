@@ -35,7 +35,7 @@ export default function AdminLogin() {
     <div className="min-h-screen bg-gradient-to-br from-neutral-900 via-primary-900 to-neutral-900 flex items-center justify-center px-4">
       <div className="w-full max-w-md">
         <Link to="/" className="flex items-center justify-center gap-2 mb-8">
-          <img src="/assets/images/1787689787291.svg" alt="A.S Properties" className="w-12 h-12 rounded-xl object-cover" />
+          <img src="/assets/images/logo.jpg" alt="A.S Properties" className="w-12 h-12 rounded-xl object-cover" />
           <div>
             <span className="font-serif text-2xl font-bold text-white block leading-none">A.S Properties</span>
             <span className="text-sm text-accent-500 font-semibold tracking-wider">NIGERIA</span>

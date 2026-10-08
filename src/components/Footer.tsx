@@ -31,7 +31,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10">
           <div className="lg:col-span-2">
             <Link to="/" className="flex items-center gap-2 mb-4">
-              <img src="/assets/images/1787689787291.svg" alt="A.S Properties" className="w-10 h-10 rounded-xl object-cover" />
+              <img src="/assets/images/logo.jpg" alt="A.S Properties" className="w-10 h-10 rounded-xl object-cover" />
               <div>
                 <span className="font-serif text-xl font-bold text-white block leading-none">
                   A.S Properties

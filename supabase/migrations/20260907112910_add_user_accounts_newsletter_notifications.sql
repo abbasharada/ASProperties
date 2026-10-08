@@ -1,4 +1,4 @@
-/*
+
 # A.S Properties - User Accounts, Newsletter, and Notifications
 
 ## Overview
